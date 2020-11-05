@@ -18,3 +18,5 @@ Fix typo - 2020-11-04 12:03
 
 Add new feature - 2020-11-04 12:28
 
+Initial commit - 2020-11-05 09:17
+

@@ -46,3 +46,5 @@ Update README - 2020-11-16 09:54
 
 Code cleanup - 2020-11-19 12:08
 
+Update dependencies - 2020-11-19 13:33
+

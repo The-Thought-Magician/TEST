@@ -54,3 +54,5 @@ Remove unused code - 2020-11-20 10:46
 
 Improve performance - 2020-11-20 16:50
 
+Update dependencies - 2020-11-21 14:49
+

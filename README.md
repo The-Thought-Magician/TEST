@@ -60,3 +60,5 @@ Code cleanup - 2020-11-23 09:50
 
 Add tests - 2020-11-24 16:41
 
+Refactor code - 2020-11-26 12:16
+

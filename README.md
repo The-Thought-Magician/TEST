@@ -72,3 +72,5 @@ Fix bug - 2020-11-28 10:54
 
 Remove unused code - 2020-11-28 12:26
 
+Improve performance - 2020-11-28 17:19
+

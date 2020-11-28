@@ -68,3 +68,5 @@ Refactor code - 2020-11-27 17:10
 
 Remove unused code - 2020-11-28 08:16
 
+Fix bug - 2020-11-28 10:54
+

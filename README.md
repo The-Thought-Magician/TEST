@@ -66,3 +66,5 @@ Add new feature - 2020-11-26 12:49
 
 Refactor code - 2020-11-27 17:10
 
+Remove unused code - 2020-11-28 08:16
+

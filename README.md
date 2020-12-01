@@ -80,3 +80,5 @@ Fix typo - 2020-11-29 04:09
 
 Add new feature - 2020-11-30 15:10
 
+Improve performance - 2020-12-01 21:32
+

@@ -90,3 +90,5 @@ Update README - 2020-12-03 10:11
 
 Add tests - 2020-12-04 12:37
 
+Refactor code - 2020-12-04 14:45
+

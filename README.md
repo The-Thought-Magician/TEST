@@ -94,3 +94,5 @@ Refactor code - 2020-12-04 14:45
 
 Add new file - 2020-12-06 12:32
 
+Update documentation - 2020-12-07 05:13
+

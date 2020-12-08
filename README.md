@@ -100,3 +100,5 @@ Code cleanup - 2020-12-07 13:44
 
 Add new feature - 2020-12-07 17:23
 
+Improve performance - 2020-12-08 12:11
+

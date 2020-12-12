@@ -112,3 +112,5 @@ Fix bug - 2020-12-10 15:18
 
 Update dependencies - 2020-12-10 16:00
 
+Implement feedback - 2020-12-12 17:30
+

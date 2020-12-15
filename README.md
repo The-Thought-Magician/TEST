@@ -114,3 +114,5 @@ Update dependencies - 2020-12-10 16:00
 
 Implement feedback - 2020-12-12 17:30
 
+Improve performance - 2020-12-15 10:56
+

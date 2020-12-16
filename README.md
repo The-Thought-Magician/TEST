@@ -120,3 +120,5 @@ Update documentation - 2020-12-16 09:07
 
 Fix bug - 2020-12-16 16:00
 
+Initial commit - 2020-12-16 17:45
+

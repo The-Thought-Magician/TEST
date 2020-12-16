@@ -118,3 +118,5 @@ Improve performance - 2020-12-15 10:56
 
 Update documentation - 2020-12-16 09:07
 
+Fix bug - 2020-12-16 16:00
+

@@ -138,3 +138,5 @@ Add new feature - 2020-12-25 04:16
 
 Improve performance - 2020-12-25 09:58
 
+Fix bug - 2020-12-25 14:14
+

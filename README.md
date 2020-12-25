@@ -136,3 +136,5 @@ Add tests - 2020-12-21 12:05
 
 Add new feature - 2020-12-25 04:16
 
+Improve performance - 2020-12-25 09:58
+

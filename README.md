@@ -146,3 +146,5 @@ Update documentation - 2020-12-27 13:27
 
 Add tests - 2020-12-27 17:29
 
+Update dependencies - 2020-12-28 11:24
+

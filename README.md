@@ -162,3 +162,5 @@ Code cleanup - 2021-01-02 11:52
 
 Update documentation - 2021-01-03 09:04
 
+Remove unused code - 2021-01-03 15:57
+

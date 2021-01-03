@@ -160,3 +160,5 @@ Update README - 2020-12-31 12:30
 
 Code cleanup - 2021-01-02 11:52
 
+Update documentation - 2021-01-03 09:04
+

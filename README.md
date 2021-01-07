@@ -168,3 +168,5 @@ Refactor code - 2021-01-07 09:53
 
 Update README - 2021-01-07 11:27
 
+Remove unused code - 2021-01-07 12:58
+

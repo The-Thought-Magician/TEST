@@ -164,3 +164,5 @@ Update documentation - 2021-01-03 09:04
 
 Remove unused code - 2021-01-03 15:57
 
+Refactor code - 2021-01-07 09:53
+

@@ -192,3 +192,5 @@ Update dependencies - 2021-01-14 14:44
 
 Remove unused code - 2021-01-14 15:58
 
+Refactor code - 2021-01-14 16:42
+

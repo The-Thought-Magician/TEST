@@ -190,3 +190,5 @@ Update README - 2021-01-13 03:15
 
 Update dependencies - 2021-01-14 14:44
 
+Remove unused code - 2021-01-14 15:58
+

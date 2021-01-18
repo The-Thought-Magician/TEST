@@ -198,3 +198,5 @@ Refactor code - 2021-01-15 10:54
 
 Add new feature - 2021-01-16 16:03
 
+Merge branch - 2021-01-18 12:00
+

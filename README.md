@@ -204,3 +204,5 @@ Code cleanup - 2021-01-20 05:08
 
 Update README - 2021-01-20 05:16
 
+Refactor code - 2021-01-20 12:41
+

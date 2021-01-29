@@ -230,3 +230,5 @@ Add new feature - 2021-01-27 11:16
 
 Remove unused code - 2021-01-28 11:31
 
+Refactor code - 2021-01-29 12:26
+

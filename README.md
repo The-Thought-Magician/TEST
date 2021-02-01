@@ -238,3 +238,5 @@ Update documentation - 2021-01-29 15:38
 
 Add new file - 2021-01-29 17:10
 
+Update dependencies - 2021-02-01 13:55
+

@@ -276,3 +276,5 @@ Update documentation - 2021-02-26 11:49
 
 Improve performance - 2021-02-27 17:21
 
+Fix bug - 2021-03-01 12:27
+

@@ -374,3 +374,5 @@ Improve performance - 2021-04-15 11:58
 
 Fix typo - 2021-04-15 15:46
 
+Update documentation - 2021-04-16 09:10
+

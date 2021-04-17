@@ -378,3 +378,5 @@ Update documentation - 2021-04-16 09:10
 
 Add tests - 2021-04-16 11:45
 
+Remove unused code - 2021-04-17 14:49
+

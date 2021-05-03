@@ -414,3 +414,5 @@ Remove unused code - 2021-05-03 10:54
 
 Update README - 2021-05-03 14:10
 
+Refactor code - 2021-05-03 15:34
+

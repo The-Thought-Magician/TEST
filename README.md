@@ -416,3 +416,5 @@ Update README - 2021-05-03 14:10
 
 Refactor code - 2021-05-03 15:34
 
+Update documentation - 2021-05-03 17:31
+

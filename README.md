@@ -424,3 +424,5 @@ Fix typo - 2021-05-04 14:46
 
 Add tests - 2021-05-04 16:07
 
+Remove unused code - 2021-05-05 12:13
+

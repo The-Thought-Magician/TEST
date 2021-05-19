@@ -446,3 +446,5 @@ Refactor code - 2021-05-17 13:12
 
 Update documentation - 2021-05-18 15:44
 
+Improve performance - 2021-05-19 17:57
+

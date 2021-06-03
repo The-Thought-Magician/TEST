@@ -496,3 +496,5 @@ Update README - 2021-06-02 19:14
 
 Add tests - 2021-06-03 07:57
 
+Refactor code - 2021-06-03 13:00
+

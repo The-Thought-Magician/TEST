@@ -516,3 +516,5 @@ Fix bug - 2021-06-10 17:27
 
 Add tests - 2021-06-11 12:12
 
+Update documentation - 2021-06-11 23:20
+

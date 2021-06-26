@@ -558,3 +558,5 @@ Add new feature - 2021-06-23 12:54
 
 Update README - 2021-06-24 12:23
 
+Update documentation - 2021-06-26 09:51
+

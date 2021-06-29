@@ -562,3 +562,5 @@ Update documentation - 2021-06-26 09:51
 
 Fix bug - 2021-06-28 13:34
 
+Remove unused code - 2021-06-29 07:28
+

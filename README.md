@@ -610,3 +610,5 @@ Fix bug - 2021-07-13 22:52
 
 Update README - 2021-07-16 11:34
 
+Refactor code - 2021-07-18 09:12
+

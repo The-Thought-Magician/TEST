@@ -612,3 +612,5 @@ Update README - 2021-07-16 11:34
 
 Refactor code - 2021-07-18 09:12
 
+Code cleanup - 2021-07-18 10:12
+

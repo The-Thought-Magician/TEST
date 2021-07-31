@@ -636,3 +636,5 @@ Update README - 2021-07-30 09:58
 
 Add tests - 2021-07-31 17:33
 
+Remove unused code - 2021-08-01 05:10
+

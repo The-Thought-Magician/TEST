@@ -680,3 +680,5 @@ Fix typo - 2021-08-18 07:13
 
 Add tests - 2021-08-18 17:04
 
+Update documentation - 2021-08-19 01:39
+

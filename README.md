@@ -722,3 +722,5 @@ Fix bug - 2021-09-04 12:43
 
 Code cleanup - 2021-09-04 16:20
 
+Remove unused code - 2021-09-04 17:24
+

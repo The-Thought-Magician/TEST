@@ -754,3 +754,5 @@ Update README - 2021-09-16 15:49
 
 Add new feature - 2021-09-16 16:54
 
+Remove unused code - 2021-09-17 10:34
+

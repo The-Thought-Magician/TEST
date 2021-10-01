@@ -786,3 +786,5 @@ Fix typo - 2021-09-27 11:19
 
 Add new feature - 2021-09-28 14:55
 
+Update documentation - 2021-10-01 16:49
+

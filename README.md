@@ -790,3 +790,5 @@ Update documentation - 2021-10-01 16:49
 
 Update README - 2021-10-02 09:12
 
+Remove unused code - 2021-10-02 12:46
+

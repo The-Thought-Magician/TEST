@@ -810,3 +810,5 @@ Add new feature - 2021-10-08 17:39
 
 Code cleanup - 2021-10-09 16:05
 
+Remove unused code - 2021-10-09 17:29
+

@@ -814,3 +814,5 @@ Remove unused code - 2021-10-09 17:29
 
 Update dependencies - 2021-10-10 12:56
 
+Update documentation - 2021-10-10 21:24
+

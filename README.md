@@ -820,3 +820,5 @@ Implement feedback - 2021-10-13 02:00
 
 Fix bug - 2021-10-14 02:10
 
+Refactor code - 2021-10-15 17:32
+

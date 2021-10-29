@@ -842,3 +842,5 @@ Improve performance - 2021-10-28 15:59
 
 Add new feature - 2021-10-28 16:59
 
+Update documentation - 2021-10-29 12:33
+

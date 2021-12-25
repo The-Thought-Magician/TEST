@@ -964,3 +964,5 @@ Update documentation - 2021-12-21 13:45
 
 Add new feature - 2021-12-21 15:40
 
+Remove unused code - 2021-12-25 10:29
+

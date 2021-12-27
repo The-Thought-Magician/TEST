@@ -972,3 +972,5 @@ Add tests - 2021-12-26 09:05
 
 Update dependencies - 2021-12-26 11:47
 
+Remove unused code - 2021-12-27 16:16
+

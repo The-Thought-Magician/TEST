@@ -984,3 +984,5 @@ Update README - 2021-12-30 17:05
 
 Add tests - 2021-12-31 11:20
 
+Improve performance - 2022-01-01 09:58
+

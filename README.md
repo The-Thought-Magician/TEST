@@ -1012,3 +1012,5 @@ Add tests - 2022-01-08 17:56
 
 Update README - 2022-01-09 14:13
 
+Update documentation - 2022-01-09 14:16
+

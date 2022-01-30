@@ -1060,3 +1060,5 @@ Update documentation - 2022-01-30 11:32
 
 Update dependencies - 2022-01-30 11:51
 
+Fix typo - 2022-01-30 17:34
+

@@ -1058,3 +1058,5 @@ Code cleanup - 2022-01-29 18:09
 
 Update documentation - 2022-01-30 11:32
 
+Update dependencies - 2022-01-30 11:51
+

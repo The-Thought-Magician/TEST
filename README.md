@@ -1066,3 +1066,5 @@ Update dependencies - 2022-01-31 11:52
 
 Add new feature - 2022-02-02 14:31
 
+Update documentation - 2022-02-02 16:47
+

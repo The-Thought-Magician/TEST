@@ -1104,3 +1104,5 @@ Update dependencies - 2022-02-14 10:15
 
 Update documentation - 2022-02-15 13:53
 
+Improve performance - 2022-02-18 16:30
+

@@ -1208,3 +1208,5 @@ Code cleanup - 2022-03-27 10:59
 
 Update documentation - 2022-03-27 13:08
 
+Refactor code - 2022-03-27 14:47
+

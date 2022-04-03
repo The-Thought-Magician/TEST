@@ -1228,3 +1228,5 @@ Refactor code - 2022-04-03 10:59
 
 Fix bug - 2022-04-03 12:28
 
+Update documentation - 2022-04-03 15:46
+

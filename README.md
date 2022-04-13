@@ -1260,3 +1260,5 @@ Fix typo - 2022-04-12 16:51
 
 Update documentation - 2022-04-13 10:08
 
+Refactor code - 2022-04-13 14:37
+

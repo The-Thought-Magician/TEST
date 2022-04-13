@@ -1258,3 +1258,5 @@ Add new feature - 2022-04-12 10:24
 
 Fix typo - 2022-04-12 16:51
 
+Update documentation - 2022-04-13 10:08
+

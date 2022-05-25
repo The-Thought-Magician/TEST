@@ -1378,3 +1378,5 @@ Fix bug - 2022-05-24 12:14
 
 Refactor code - 2022-05-25 11:49
 
+Update documentation - 2022-05-25 14:01
+

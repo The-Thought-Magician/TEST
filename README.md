@@ -1402,3 +1402,5 @@ Add new feature - 2022-05-31 22:16
 
 Update README - 2022-06-01 11:20
 
+Refactor code - 2022-06-01 12:42
+

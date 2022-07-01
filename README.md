@@ -1486,3 +1486,5 @@ Update documentation - 2022-06-29 10:51
 
 Refactor code - 2022-06-29 16:31
 
+Implement feedback - 2022-07-01 17:34
+

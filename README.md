@@ -1526,3 +1526,5 @@ Fix bug - 2022-07-18 12:34
 
 Update documentation - 2022-07-19 10:49
 
+Remove unused code - 2022-07-19 15:31
+

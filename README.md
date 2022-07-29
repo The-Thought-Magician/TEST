@@ -1548,3 +1548,5 @@ Add new feature - 2022-07-27 11:58
 
 Fix typo - 2022-07-28 17:20
 
+Remove unused code - 2022-07-29 16:38
+

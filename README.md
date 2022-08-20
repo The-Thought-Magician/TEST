@@ -1604,3 +1604,5 @@ Update documentation - 2022-08-20 10:46
 
 Add new file - 2022-08-20 12:36
 
+Remove unused code - 2022-08-20 16:03
+

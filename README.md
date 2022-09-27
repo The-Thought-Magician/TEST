@@ -1700,3 +1700,5 @@ Add tests - 2022-09-27 11:09
 
 Update documentation - 2022-09-27 14:22
 
+Refactor code - 2022-09-28 02:54
+

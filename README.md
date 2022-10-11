@@ -1732,3 +1732,5 @@ Add new feature - 2022-10-09 12:11
 
 Add tests - 2022-10-10 12:10
 
+Update documentation - 2022-10-11 15:06
+

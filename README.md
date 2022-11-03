@@ -1792,3 +1792,5 @@ Update documentation - 2022-11-02 15:37
 
 Update README - 2022-11-03 14:22
 
+Remove unused code - 2022-11-04 04:41
+

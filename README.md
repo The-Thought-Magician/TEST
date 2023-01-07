@@ -1958,3 +1958,5 @@ Update README - 2023-01-07 10:49
 
 Update dependencies - 2023-01-07 11:01
 
+Update documentation - 2023-01-07 13:22
+

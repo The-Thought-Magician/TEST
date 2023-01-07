@@ -1960,3 +1960,5 @@ Update dependencies - 2023-01-07 11:01
 
 Update documentation - 2023-01-07 13:22
 
+Fix typo - 2023-01-07 17:55
+

@@ -1980,3 +1980,5 @@ Improve performance - 2023-01-17 11:11
 
 Update documentation - 2023-01-17 11:52
 
+Remove unused code - 2023-01-18 10:38
+

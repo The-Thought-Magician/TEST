@@ -1982,3 +1982,5 @@ Update documentation - 2023-01-17 11:52
 
 Remove unused code - 2023-01-18 10:38
 
+Update dependencies - 2023-01-19 11:39
+

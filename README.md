@@ -2006,3 +2006,5 @@ Add new feature - 2023-01-26 12:36
 
 Fix typo - 2023-01-27 09:56
 
+Remove unused code - 2023-01-27 17:13
+

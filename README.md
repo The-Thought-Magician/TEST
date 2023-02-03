@@ -2018,3 +2018,5 @@ Update documentation - 2023-02-01 09:16
 
 Update README - 2023-02-02 17:27
 
+Refactor code - 2023-02-03 13:16
+

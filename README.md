@@ -2142,3 +2142,5 @@ Refactor code - 2023-03-28 08:40
 
 Update dependencies - 2023-03-28 11:49
 
+Remove unused code - 2023-03-28 11:51
+

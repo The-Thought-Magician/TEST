@@ -2300,3 +2300,5 @@ Initial commit - 2023-06-12 10:37
 
 Refactor code - 2023-06-12 12:50
 
+Update documentation - 2023-06-13 09:27
+

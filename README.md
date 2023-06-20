@@ -2320,3 +2320,5 @@ Add new feature - 2023-06-17 17:36
 
 Fix typo - 2023-06-18 17:41
 
+Remove unused code - 2023-06-20 15:30
+

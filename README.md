@@ -2378,3 +2378,5 @@ Add new feature - 2023-07-06 14:31
 
 Implement feedback - 2023-07-06 15:24
 
+Update documentation - 2023-07-07 17:45
+

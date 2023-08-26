@@ -2480,3 +2480,5 @@ Improve performance - 2023-08-24 16:06
 
 Add tests - 2023-08-25 09:23
 
+Update documentation - 2023-08-26 14:29
+

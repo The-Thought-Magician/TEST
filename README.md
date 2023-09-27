@@ -2544,3 +2544,5 @@ Code cleanup - 2023-09-26 09:45
 
 Update documentation - 2023-09-26 10:32
 
+Refactor code - 2023-09-27 15:30
+

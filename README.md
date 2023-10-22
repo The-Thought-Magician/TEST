@@ -2586,3 +2586,5 @@ Refactor code - 2023-10-21 16:48
 
 Update README - 2023-10-22 09:16
 
+Update documentation - 2023-10-22 09:46
+

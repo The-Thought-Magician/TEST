@@ -2616,3 +2616,5 @@ Add tests - 2023-11-01 15:09
 
 Refactor code - 2023-11-01 15:21
 
+Update documentation - 2023-11-02 16:36
+

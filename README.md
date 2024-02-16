@@ -2856,3 +2856,5 @@ Update documentation - 2024-02-15 17:34
 
 Fix typo - 2024-02-16 10:54
 
+Remove unused code - 2024-02-16 16:06
+

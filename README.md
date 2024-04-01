@@ -2986,3 +2986,5 @@ Fix bug - 2024-03-30 15:58
 
 Add tests - 2024-03-30 17:33
 
+Update documentation - 2024-04-01 12:06
+

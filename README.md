@@ -3470,3 +3470,5 @@ Fix bug - 2024-11-09 13:41
 
 Update documentation - 2024-11-10 12:37
 
+Refactor code - 2024-11-10 13:21
+
